@@ -1,1 +1,1 @@
-# standford-machine-learning
+# Standford-machine-learning
